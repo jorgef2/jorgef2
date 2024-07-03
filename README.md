@@ -8,7 +8,7 @@ I completed my undergraduate studies at the University of Illinois at Urbana-Cha
 
 To dive deeper into the data science domain, I pursued a Master of Science in Data Science at DePaul University. This broadened my understanding of advanced algorithms and machine learning techniques, and also provided me with hands-on experience in predictive modeling and data engineering.
 
-## nterests
+## Interests
 
 I am always fascinated by the challenges of extracting actionable insights from raw data. My academic and professional journeys have equipped me with skills in:
 
