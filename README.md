@@ -1,6 +1,6 @@
 # Jorge Fernandez
 
-Welcome to my GitHub! I'm Jorge, a data scientist with a passion for unraveling complex datasets to uncover insights and drive better decision-making. Below is a brief overview of my academic background and interests.
+Welcome to my GitHub! I'm Jorge, a recent data science graduate with a passion for unraveling complex datasets to uncover insights and drive better decision-making. Below is a brief overview of my academic background and interests.
 
 ## About Me
 
