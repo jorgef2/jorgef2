@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm Jorge, a recent data science graduate with a passion f
 
 ## About Me
 
-I completed my undergraduate studies at the University of Illinois at Urbana-Champaign (UIUC), earning a Bachelor of Science in Atmospheric Sciences and Meteorology. This field was rich in data science methodologies, and sparked my interest in the field. Tackling problems from predicting weather patterns to understanding climate variations taught me the importance of accurate data modeling and fueled my passion for technology and analytics.
+I completed my undergraduate studies at the University of Illinois at Urbana-Champaign. Here I developed an interest in atmospheric sciences, which is a field rich in data science methodologies. Tackling problems from predicting weather patterns to understanding climate variations taught me the importance of accurate data modeling and fueled my passion for technology and analytics.
 
 To dive deeper into the data science domain, I pursued a Master of Science in Data Science at DePaul University. This broadened my understanding of advanced algorithms and machine learning techniques, and also provided me with hands-on experience in predictive modeling and data engineering.
 
